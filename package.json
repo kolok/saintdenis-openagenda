@@ -1,0 +1,12 @@
+{
+  "name": "saintdenis-oa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "NODE_ENV=development browser-refresh server"
+  },
+  "dependencies": {
+    "@openagenda/agenda-portal": "^4.3.2"
+  }
+}
