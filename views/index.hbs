@@ -1,35 +1,10 @@
 <html lang="fr">
     <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="robots" content="index, follow">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-        <!--Title and desc-->
-
-        <title>Sortir à Saint-Denis</title>
-        <meta name="description" content="Potail des activités culturelles de Saint-Denis">
-
-        <!--Favicon-->
-
-        <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"><!-- 180×180 -->
-        <link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
-        <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon"><!-- 32×32 -->
-
-        <!--Css-->
-
-        {{#each stylesheets }}
-            <link rel="stylesheet" href="{{this.href}}">
-
-        {{/each}}
-
-        {{#each scripts.top }}
-            <script type="text/javascript" nomodule="" src="{{this.src}}"></script>
-        {{/each}}
-
-
+        {{>head}}
     </head>
     <body>
+        {{>layout.top}}
+        {{>widgets/search}}
         {{#each events }}
 
             uid: {{this.uid}}<br>

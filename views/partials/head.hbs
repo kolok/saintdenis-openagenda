@@ -1,0 +1,29 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="robots" content="index, follow">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<!--Title and desc-->
+
+<title>Sortir à Saint-Denis</title>
+<meta name="description" content="Potail des activités culturelles de Saint-Denis">
+
+<!--Favicon-->
+
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"><!-- 180×180 -->
+<link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon"><!-- 32×32 -->
+
+<!-- Css -->
+
+{{#each stylesheets }}
+    <link rel="stylesheet" href="{{this.href}}">
+{{/each}}
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+<!-- Script -->
+
+{{#each scripts.top }}
+    <script type="text/javascript" nomodule="" src="{{this.src}}"></script>
+{{/each}}
