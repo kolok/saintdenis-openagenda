@@ -1,0 +1,128 @@
+#featured-events {
+  background-color: #e0e0e0;
+  padding: 50px 0;
+  min-height: 395px;
+
+  h1 {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+    .dot {
+      color: $albi-red;
+      font-size: 50px;
+    }
+  }
+
+  h2 {
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 0.8;
+    margin-bottom: 1.4em;
+  }
+
+  .row {
+    margin: 0;
+    padding-left: 0;
+  }
+
+  .featured-event-item {
+    height: 180px;
+    padding-bottom: 0;
+    list-style: none;
+    
+    .inner-featured {
+      @include transition(all 0.3s ease);
+      &:hover {
+        -webkit-box-shadow: 6px 6px 15px -6px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: 6px 6px 15px -6px rgba(0, 0, 0, 0.75);
+        box-shadow: 6px 6px 15px -6px rgba(0, 0, 0, 0.75);
+      }
+    }
+
+    .darken-filter {
+      float: left;
+      height: 100%;
+      position: absolute;
+      width: 100%;
+      filter: opacity;
+      background-color: #000;
+      opacity: 0.3;
+    }
+    a .range {
+      position: relative;
+      color: #ffffff;
+      font-size: 20px;
+      font-weight: bold;
+      line-height: 24px;
+    }
+
+    .featured-event-metas {
+      background: #ffffff;
+    }
+
+    a {
+    text-align: center;
+      h3.title {
+        color: #000000;
+        font-family: Montserrat;
+        font-size: 15px;
+        font-weight: bold;
+        line-height: 19px;
+        text-align: left;
+        @include transition(all 0.3s ease);
+      }
+
+      .place {
+        color: #707070;
+        font-weight: bold;
+        font-size: 12px;
+        line-height: 15px;
+        text-align: left;
+        .fa {
+          color: #b7b7b7;
+        }
+      }
+
+      .category {
+        position: absolute;
+
+        bottom: 5px;
+
+        right: 10px;
+
+        .category {
+          color: #b7b7b7;
+        }
+
+        .category.culture {
+          color: $albi-culture;
+        }
+        .category.sports {
+          color: $albi-sport;
+        }
+        .category.education {
+          color: $albi-education;
+        }
+        .category.loisirs {
+          color: $albi-loisir;
+        }
+        .category.nature {
+          color: $albi-nature-environnement;
+        }
+        .category.economie {
+          color: $albi-economie;
+        }
+        .category.patrimoine {
+          color: $albi-patrimoine;
+        }
+
+        .fa-arrow-right {
+          color: $albi-red;
+        }
+      }
+    }
+  }
+  .featured-event-item:hover a h3.title {
+    color: $albi-red !important;
+  }
+}

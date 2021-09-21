@@ -1,0 +1,36 @@
+.modal-dialog {
+  a {
+    color: #000;
+  }
+  .modal-header {
+    background: $albi-red;
+  }
+  .modal-title, .close {
+    color: white;
+  }
+}
+
+.modal-btn {
+  justify-self: center;
+  margin-left: 10px;
+  cursor: pointer;
+  color: #000;
+
+
+
+  &:hover {
+    color: $albi-red;
+  }
+}
+
+.btn-outline-primary {
+    color: $albi-red;
+    border-color: $albi-red;
+		&:hover, &:focus, &:not(:disabled):not(.disabled):active, &:not(:disabled):not(.disabled):active:focus {
+			color: white;
+			background-color: $albi-red;
+			border-color: $albi-red;
+			box-shadow: none;
+		}
+}
+

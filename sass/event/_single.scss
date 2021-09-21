@@ -1,0 +1,135 @@
+.single-event-page {
+
+    .back-link a {
+      color: $oa-gray;
+      font-size: 18px;
+      line-height: 22px;
+      @include transition(all .3s ease);
+      &:hover {
+        color: $albi-red;
+      }
+      .fa-arrow-left {
+        color: $albi-red;}
+    }
+  
+    .tags {
+      .tag:after {content :', ';}
+    }
+  
+    h1 {
+      color: #000000;
+      font-size: 46px;
+      font-weight: bold;
+      letter-spacing: 0.2px;
+      line-height: 57px;
+    }
+  
+    .event-description {
+  
+      color: #DB3B29;
+      font-weight: 500;
+      font-size: 16px;
+      letter-spacing: 0.2px;
+      line-height: 19px;
+    }
+  
+  
+    .img-single-event.atelier-stage {
+      background-image: url("/callback_vignette_atelier-stage.jpg") ;
+      height: 250px;
+      background-position: center;
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+  
+    .img-single-event.theatre {
+      background-image: url("/callback_vignette_theatre.jpg") ;
+      height: 250px;
+      background-position: center;
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+  
+    .img-single-event.cinema-projection {
+      background-image: url("/callback_vignette_cinema-projection.jpg") ;
+      height: 250px;
+      background-position: center;
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+    .img-single-event.rencontre-conferencedebat {
+      background-image: url("/callback_vignette_rencontre-debat.jpg") ;
+      height: 250px;
+      background-position: center;
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+    .img-single-event.spectacle-concert{
+      background-image: url("/callback_vignette_concert.jpg") ;
+      height: 250px;
+      background-position: center;
+      background-size: contain;
+      background-repeat: no-repeat;
+    }img-single-event.exposition-visite{
+      background-image: url("/callback_vignette_exposition-visite.jpg") ;
+         height: 250px;
+         background-position: center;
+         background-size: contain;
+         background-repeat: no-repeat;
+    }
+  
+    .img-single-event.manifestation-sportive{
+      background-image: url("/callback_vignette_manifestation-sportive.jpg") ;
+      height: 250px;
+      background-position: center;
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+    .img-single-event.marche-nocturne{
+      background-image: url("/callback_vignette_marche-nocturne.jpg") ;
+      height: 250px;
+      background-position: center;
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+    .img-single-event.salon-foire{
+      background-image: url("/callback_vignette_salon-foire.jpg") ;
+      height: 250px;
+      background-position: center;
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+    .event-text {
+      color: #000000;
+      font-size: 13px;
+      letter-spacing: 0.2px;
+      line-height: 23px;
+      padding-top: 2em;
+      white-space: pre-line;
+    }
+  
+    .event-details {
+      box-sizing: border-box;
+      margin: 2em auto;
+      padding: 2em 3em;
+      color: #FFFFFF;
+      border: 1px solid #D0021B;
+      background-color: #D9222F;
+      box-shadow: 0 2px 11px 0 rgba(121,95,0,0.5);
+    }
+  
+  
+    @include media-breakpoint-up(sm) {
+      .event-details {
+        width: 80%;
+  
+      }
+      }
+  
+  
+    .fa-map-marker-alt {color:$albi-red;}
+    .location {
+      .fa-map-marker-alt {color:#FFF}
+    }
+  }
+  

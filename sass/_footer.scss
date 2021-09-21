@@ -1,0 +1,399 @@
+.savoir-plus {
+  h2 {font-weight: bold}
+  .voir-aussi-slogan {
+
+    margin-top: 20px;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+    font-family: 'montserratsemibold', arial, sans-serif;
+
+  }
+  h3 {
+    margin-bottom: 30px;
+    color: #b22222;
+    font-weight: 600;
+  }
+}
+footer {
+
+  padding: 0;
+  background: #fff;
+  border: none;
+  box-shadow: 0px 3px 26px 0px rgba(125,125,125,0.75);
+  -webkit-box-shadow: 0px 3px 26px 0px rgba(125,125,125,0.75);
+  -moz-box-shadow: 0px 3px 26px 0px rgba(125,125,125,0.75);
+
+  margin-top: 45px;
+  padding-top: 35px;
+  padding-bottom: 36px;
+  border-top: 1px solid #E5E5E5;
+
+  .adresse {margin: 10px 0;
+font-weight: 300;
+  letter-spacing: 0;
+    font-size: 14px;
+  line-height: 1.7;
+
+  color: #7f7f7f;
+}
+
+  h2 a {
+
+    color: #464447;
+    font-size: 18px;
+
+  }
+
+  .footer-rs {
+    display: flex;
+    padding: 10px 0;
+    align-items: center;
+    justify-content: flex-end;
+    background-color: #e0e0e0;
+  }
+  .footer-menu {
+    display: flex;
+    position: relative;
+    padding: 10px 0;
+    justify-content: flex-start;
+    align-items: center;
+    background: #b22222;
+    background: -moz-linear-gradient(45deg, #b22222 0%, #d9222f 100%);
+    background: -webkit-linear-gradient(45deg, #b22222 0%,#d9222f 100%);
+    background: linear-gradient(45deg, #b22222 0%,#d9222f 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b22222', endColorstr='#d9222f',GradientType=1 );
+  }
+ 
+}
+
+/*------------------------------------------------------------------------
+      FOOTER
+----------------------------------------------------------------------------*/
+.back-to-top a:focus,
+.back-to-top a:hover{
+  text-decoration: none;
+}
+.footer-link{
+  transition: transform 0.2s ease;
+}
+.footer-link:hover {
+  transform: scale(110%);
+}
+.back-to-top {
+  display: none;
+  position: fixed;
+  right: 0;
+  z-index: 100;
+  bottom: 90px;
+  margin: 0;
+  cursor: pointer;
+}
+
+.back-to-top a{
+  display: block;
+  padding: 10px 13px;
+  background-color: #b22222;
+  text-align: center;
+}
+
+.back-to-top a:before{
+  content: "\25B2";
+  color: #fff;
+}
+
+.back-to-top:hover a:before{
+  color: #000;
+}
+
+.back-to-top a span, .back-to-top a span.retour-haut{
+  display: none;
+}
+
+
+.dialog-off-canvas-main-canvas > footer{
+  padding: 0;
+  background: #fff;
+  border: none;
+  box-shadow: 0px 3px 26px 0px rgba(125,125,125,0.75);
+  -webkit-box-shadow: 0px 3px 26px 0px rgba(125,125,125,0.75);
+  -moz-box-shadow: 0px 3px 26px 0px rgba(125,125,125,0.75);
+
+}
+
+/*.dialog-off-canvas-main-canvas > footer ul.menu--footer{
+  margin-top: 25px;
+  text-align: center;
+}
+
+.dialog-off-canvas-main-canvas > footer ul.menu--footer li{
+  display: inline-block;
+}
+
+.dialog-off-canvas-main-canvas > footer ul.menu--footer li a{
+  color: #000;
+}*/
+
+footer.footer h2{
+  font-size: 1.8rem;
+  font-size: 18px;
+
+  font-weight: bold;
+}
+
+footer.footer h2 span{
+  color: #b22222;
+}
+
+footer.footer h2 a{
+  color: #464447;
+}
+
+footer.footer h2 a:focus,
+footer.footer h2 a:hover{
+  text-decoration: none;
+}
+
+footer.footer .footer-contact-tel{
+  display: flex;
+  align-items: center;
+  font-size: 2.6rem;
+  color: #7f7f7f;
+  font-size: 26px;
+  font-weight: 400;
+}
+footer.footer .footer-contact-tel .fa-phone {
+  font-size: 18px;
+
+}
+
+.footer-rs h2{
+  margin-right: 15%;
+  float: left;
+}
+
+.footer-rs li{
+  display: inline-block;
+  float: left;
+  margin-left: 15px;
+}
+
+footer.footer .footer-menu{
+  display: flex;
+  position: relative;
+  padding: 10px 0;
+  justify-content: flex-start;
+  align-items: center;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b22222+0,d9222f+100 */
+  background: #b22222; /* Old browsers */
+  background: -moz-linear-gradient(45deg, #b22222 0%, #d9222f 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(45deg, #b22222 0%,#d9222f 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(45deg, #b22222 0%,#d9222f 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b22222', endColorstr='#d9222f',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+footer.footer .menu--footer li{
+  display: inline-block;
+}
+
+footer.footer .menu--footer li a{
+  display: inline-block;
+  position: relative;
+  padding: 0 10px;
+  padding-right: 7px;
+  text-transform: uppercase;
+  font-size: 1rem;
+  color: #fff;
+}
+
+footer.footer .menu--footer li a::after{
+  content: "";
+  display: inline-block;
+  position: absolute;
+  width: 1px;
+  height: 6px;
+  background-color: #fff;
+  right: 0;
+  top: calc(50% - 3px);
+}
+footer.footer .menu--footer li:last-child a::after{
+  display: none;
+}
+
+footer.footer .menu--footer li a:focus,
+footer.footer .menu--footer li a:hover{
+  background: none;
+}
+
+/*footer.footer .menu--footer li:after{
+  content: "|";
+}*/
+
+.site-map-footer-link-wrapper{
+  margin-left: 10%;
+  text-align: center;
+  font-size: 12px;
+}
+
+a.site-map-footer-link{
+  display: flex;
+  flex-direction: column;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+a.site-map-footer-link:focus,
+a.site-map-footer-link:hover{
+  text-decoration: none;
+}
+
+
+.site-map-footer-link-wrapper.open a.site-map-footer-link:after{
+  transform: rotate(-90deg);
+}
+
+.footer-site-map{
+  display: none;
+}
+.footer-site-map .menu--main ul {
+  display: block;
+  position: relative;
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+footer .footer-wrapper{
+  padding: 0;
+}
+footer .footer-wrapper .logo{
+  display: flex;
+}
+footer .footer-wrapper .logo > a{
+  display: inline-block;
+}
+footer .footer-wrapper .logo > a:first-child{
+  //border-right: 1px solid #000;
+}
+footer .footer-wrapper .logo > a:last-child{
+ // border-left: 1px solid #000;
+}
+
+footer .footer-wrapper .adresse{
+  color: #7f7f7f;
+}
+.footer-bottom-wrapper .footer-bottom-row{
+  display: flex;
+}
+
+/*----------- Réseaux sociaux ----------*/
+.footer-bottom-wrapper .footer-rs{
+  display: flex;
+  padding: 10px 0;
+  align-items: center;
+  justify-content: flex-end;
+  background-color: #e0e0e0;
+}
+
+.footer-shortcuts-wrapper{
+  display: flex;
+  max-width: 230px;
+  margin: 0 25px 0 0;
+}
+.footer-shortcuts-wrapper .footer-shortcut{
+  width: 25%;
+  margin: 0;
+}
+.footer-shortcuts-wrapper .footer-shortcut > a{
+  text-align: center;
+}
+.footer-shortcuts-wrapper .footer-shortcut > a:hover,
+.footer-shortcuts-wrapper .footer-shortcut > a:focus{
+  text-decoration: none;
+}
+.footer-shortcuts-wrapper .footer-shortcut > a span{
+  display: block;
+  height: 0;
+  text-indent: -99999px;
+}
+.footer-shortcuts-wrapper .footer-shortcut > a::before{
+  content: "";
+  display: block;
+  padding: 0 10px;
+  font-size: 18px;
+  color: #9d9d9d;
+}
+a.shortcut-icon {color: $oa-gray;}
+
+.footer-shortcuts-wrapper .footer-shortcut > a:hover::before,
+.footer-shortcuts-wrapper .footer-shortcut > a:focus::before{
+  color: #fff;
+}
+.footer-shortcuts-wrapper .footer-shortcut > a.fb-white::before{
+  content:"\f09a";
+}
+.footer-shortcuts-wrapper .footer-shortcut > a.tt-white::before{
+  content:"\f099";
+}
+.footer-shortcuts-wrapper .footer-shortcut > a.ig-white::before{
+  content:"\f16d";
+}
+.footer-shortcuts-wrapper .footer-shortcut > a.yt-white::before{
+  content:"\f16a";
+}
+
+.footer-bottom-wrapper{
+  overflow: hidden;
+}
+
+@media screen and (max-width:1199px){
+  .footer-rs h2{
+    margin-right: 0;
+  }
+  .site-map-footer-link-wrapper{
+    margin-left: 0;
+  }
+}
+@media screen and (max-width:991px){
+  .footer-bottom-wrapper .footer-bottom-row{
+    flex-direction: column;
+  }
+  footer.footer .footer-menu,
+  .footer-bottom-wrapper .footer-rs{
+    justify-content: center;
+  }
+}
+@media screen and (max-width:768px){
+  footer .footer-wrapper .footer-row.row{
+    margin: 0;
+  }
+  footer .footer-wrapper .footer-row > div{
+    margin-bottom: 20px;
+    text-align: center;
+    justify-content: center;
+  }
+  footer .footer-wrapper .footer-row > div:last-child{
+    margin-bottom: 0;
+  }
+  footer h2.footer-contact-button{
+    margin: auto;
+  }
+  footer.footer .footer-contact-tel{
+    justify-content: center;
+  }
+}
+@media screen and (max-width:479px){
+  footer.footer .footer-menu,
+  .footer-bottom-wrapper .footer-rs{
+    flex-direction: column;
+  }
+  footer.footer .menu--footer li{
+    display: block;
+    text-align: center;
+    margin: 5px 0;
+  }
+  footer.footer .menu--footer li a::after{
+    display: none;
+  }
+}
+
+
