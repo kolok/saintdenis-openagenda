@@ -7,12 +7,13 @@
 
     .page-link {
       padding: 4px 10px;
+      color: $oa-gray;
     }
 
     .page-link,
     &:last-child .page-link,
     &:first-child .page-link {
-      border-radius: 100px;
+      border-radius: 0;
     }
 
     &.next,
@@ -32,5 +33,12 @@
         right: 0;
       }
     }
+  }
+  .page-item.active .page-link {
+    z-index: 1;
+    color: #fff;
+    background-color: $albi-red;
+    border-color: $oa-gray;
+
   }
 }

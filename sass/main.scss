@@ -1,4 +1,4 @@
-$body-bg: #eee;
+$body-bg: #fff;
 
 $oa-blue: #41acdd;
 $oa-black: #413a42;
@@ -22,24 +22,32 @@ $theme-colors: (
   "danger": $oa-red,
 );
 
+$albi-red: #B22222;
+$albi-red-light: #D9222F;
+$albi-culture : #F5A623;
+$albi-sport: #D0021B;
+$albi-education: #8B572A;
+$albi-loisir: #BBD321;
+$albi-nature-environnement : #417505;
+$albi-economie: #4A90E2;
+$albi-patrimoine: #8609F4;
+
 @import "~bootstrap/scss/bootstrap";
+@import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates:400,600,700|Montserrat:400,600,700');
 
 body {
   min-height: 100%;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
+a {
+}
 a:hover {
   text-decoration: none;
-  color: $oa-black;
 }
 
 .wbg {
   background-color: white;
-}
-
-.main-show-sidebar {
-  display: none;
 }
 
 @include media-breakpoint-down(sm) {
@@ -58,13 +66,21 @@ a:hover {
 @import "./timings";
 @import "./maps";
 @import "./event/share";
+@import './event/single';
+@import "./menu";
+@import "./featuredItems";
+@import "./footer";
+@import "./modal";
 
 @import "./widgets/tags";
-//@import "./widgets/calendar";
+@import "./widgets/calendar";
 @import "./widgets/relative";
 @import "./widgets/preview";
 
-header {
+@import "./filters";
+@import "./react-date-range";
+
+/* header {
   background-color: $oa-dark-purple;
   color: white;
 
@@ -72,3 +88,16 @@ header {
     color: white;
   }
 }
+
+.custom-example {
+  input[type="checkbox"][readonly] {
+    pointer-events: none !important;
+  }
+
+  &.active input[type="checkbox"]:not(:checked) {
+    display: none;
+  }
+  &.inactive input[type="checkbox"]:checked {
+    display: none;
+  }
+} */

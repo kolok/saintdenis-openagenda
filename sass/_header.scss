@@ -1,7 +1,42 @@
 header {
-
+  background: url("/banner_1.jpg");
+  background-size: cover;
+    height: 260px;
+  @include media-breakpoint-down(sm) {
+    .site_slogan {
+      margin-top: -100px;
+    }
+  }
   a:hover {
-    color: darken( $oa-white, 10 );
+    color: darken($oa-white, 10);
+  }
+
+  #socials {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 1.4em;
+    ul {
+      padding: 0;
+      list-style: none;
+      li {
+        display: inline-block;
+        padding: 10px
+      }
+    }
+  }
+
+}
+
+.sub-header-nav {
+
+  background-color: $albi-red-light;
+  .nav-item a {
+    color: white;
+  }
+
+  .disabled {
+    opacity: 0.2;
   }
 
 }

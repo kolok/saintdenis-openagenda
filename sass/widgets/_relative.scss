@@ -8,13 +8,14 @@
 
     li {
 
-      display: inline-block;
+      display: list-item;
       background: $oa-white;
       border-radius: 3px;
       padding: 2px 8px;
       text-align: center;
       margin: 4px 0 0;
       font-size: 0.8em;
+      border: 2px solid #FFF;
 
       a {
         color: $oa-black;
@@ -22,7 +23,9 @@
 
       &:hover {
 
-        background: $oa-blue;
+        background: #D0021B;
+        border: 2px solid #FFF;
+        color: #FFF;
 
         a {
           color: $oa-white;

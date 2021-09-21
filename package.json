@@ -7,6 +7,6 @@
     "start": "NODE_ENV=development browser-refresh server"
   },
   "dependencies": {
-    "@openagenda/agenda-portal": "^4.3.2"
+    "@openagenda/agenda-portal": "5.0.0-rc14"
   }
 }

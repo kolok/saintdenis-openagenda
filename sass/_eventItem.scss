@@ -1,18 +1,163 @@
-.event-item {
 
-  border: 1px transparent solid;
-  border-radius: 3px;
+.event-list-item {
+  border: 1px solid #979797;
+  background-color: #FFFFFF;
+  -webkit-box-shadow: 6px 6px 15px -6px rgba(0,0,0,0.75);
+  -moz-box-shadow: 6px 6px 15px -6px rgba(0,0,0,0.75);
+  box-shadow: 6px 6px 15px -6px rgba(0,0,0,0.75);
+  @include transition(all .3s ease);
+  @include media-breakpoint-up(sm) {
+    height: 390px;
+    overflow: hidden;
+  }
 
   &:hover {
-    border: 1px $oa-blue solid;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
   }
 
-  color: $oa-dark;
-  display: block;
-  margin-bottom: 40px;
+  .event-item {
 
-  h3 {
-    font-size: 1.3em;
-  }
+    .overlay.atelier-stage {
+      background-image: url("/callback_vignette_atelier-stage.jpg") ;
+    }
 
+    .overlay.theatre {
+      background-image: url("/callback_vignette_theatre.jpg") ;
+    }
+
+    .overlay.cinema-projection {
+      background-image: url("/callback_vignette_cinema-projection.jpg") ;
+    }
+
+    .overlay.rencontre-conferencedebat {
+      background-image: url("/callback_vignette_rencontre-debat.jpg") ;
+    }
+
+    .overlay.spectacle-concert{
+      background-image: url("/callback_vignette_concert.jpg") ;
+    }
+
+    .overlay.exposition-visite{
+      background-image: url("/callback_vignette_exposition-visite.jpg") ;
+    }
+
+    .overlay.manifestation-sportive{
+      background-image: url("/callback_vignette_manifestation-sportive.jpg") ;
+    }
+
+    .overlay.marche-nocturne{
+      background-image: url("/callback_vignette_marche-nocturne.jpg") ;
+    }
+
+    .overlay.salon-foire{
+      background-image: url("/callback_vignette_salon-foire.jpg") ;
+    }
+
+    .darken-filter {
+      float: left;
+      height: 200px;
+      position: absolute;
+      width: 100%;
+      filter: opacity;
+      background-color: #000;
+      opacity: 0.30;
+      left: 0;
+    }
+
+    .unique_date {
+      position: relative;
+      color: #FFFFFF;
+      font-size: 20px;
+      line-height: 24px;
+      text-align: center;
+      width: 100%;
+
+      .day {
+        display: block;
+        font-size: 32px;
+        font-weight: bold;
+      }
+      .month {
+        display: block;
+        line-height: 30px;
+      }
+    }
+
+   .range {
+       position: relative;
+       color: #FFFFFF;
+       font-size: 20px;
+       font-weight: 400;
+       line-height: 24px;
+       text-align: center;
+       width: 100%;
+     .day {
+       font-weight: bold;
+     }
+     }
+
+    &:hover {
+    }
+
+    color: $oa-dark;
+
+    .category {
+      position: absolute;
+      margin-top: -13px;
+      width: 100%;
+      text-align: center;
+      color: #CCC;
+    }
+
+    .category.culture {
+    color: $albi-culture;
+    }
+    .category.sports {
+      color: $albi-sport;
+    }
+    .category.education {
+      color: $albi-education;
+    }
+    .category.loisirs {
+      color:$albi-loisir;
+    }
+    .category.nature-environnemen {
+      color:$albi-nature-environnement
+    }
+    .category.economie {
+      color: $albi-economie;
+    }
+    .category.patrimoine{
+      color:$albi-patrimoine;
+    }
+
+    h3 {
+        color: #000000;
+        font-size: 16px;
+        font-weight: bold;
+        line-height: 19px;
+      }
+
+    .place {
+      color: #707070;
+      font-weight: bold;
+      font-size: 12px;
+      line-height: 15px;
+      .fa {color:#b7b7b7}
+    }
+    .address {
+      color: #707070;
+      font-size: 12px;
+      line-height: 15px;
+    font-weight: 400;}
+    }
+
+    .fa-arrow-right {
+      position: absolute;
+      bottom: 10px;
+      right: 10px;
+      color: $albi-red;
+    }
 }

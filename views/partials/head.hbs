@@ -1,29 +1,32 @@
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="robots" content="index, follow">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-<!--Title and desc-->
-
-<title>Sortir à Saint-Denis</title>
-<meta name="description" content="Potail des activités culturelles de Saint-Denis">
-
-<!--Favicon-->
-
-<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"><!-- 180×180 -->
-<link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon"><!-- 32×32 -->
-
-<!-- Css -->
-
-{{#each stylesheets }}
-    <link rel="stylesheet" href="{{this.href}}">
-{{/each}}
-
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-
-<!-- Script -->
-
-{{#each scripts.top }}
-    <script type="text/javascript" nomodule="" src="{{this.src}}"></script>
-{{/each}}
+<header>
+  <div class="container h-100">
+    <div id="socials">
+      <ul>
+        <li>
+          <a href="https://openagenda.com/home" target="_blank">
+            <img src="/logo-oa.png" alt="" OpenAgenda />
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/#" target="_blank">
+            <img src="/facebook.png" alt="facebook" />
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/#" target="_blank">
+            <img src="/twitter.png" alt="Twitter" />
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div class="row py-4 align-items-center h-100">
+      <div class="col-12 text-center pb-5 px-md-5">
+        <div class="site_slogan"  style="color:white;">
+          {{!-- <{{tagName}} class="site_logo mb-4"><a href="http://mairie-albi.fr/" alt="{{agenda.title}}" title="{{agenda.title}}"><img src="/albi_large.svg" width="200" height="200"> </a></{{tagName}}> --}}
+            <h1>Saint-Denis Sorties</h1>
+            <h2>Bienvenue sur l'agenda de Saint-Denis</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
