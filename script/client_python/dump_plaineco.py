@@ -280,8 +280,9 @@ def create_event_from_url(url, loc_uid=None, event_titles=[]):
     print(event_created.json())
 
 
-client = OpenAgendaClient()
-loc_uid = utils.get_locations(client)
+# Choose a main location
+# client = OpenAgendaClient()
+# loc_uid = utils.get_locations(client)
 
 
 
@@ -291,19 +292,35 @@ loc_uid = utils.get_locations(client)
 #exit()
 
 # get all spectacle URL from TGP page
-url = "https://tgp.theatregerardphilipe.com/presentation-de-saison-2021-2022/"
+import uuid
+url = "https://www.tourisme-plainecommune-paris.com/api/render/website/saint-denis-tourisme/playlist/0d165790f34edd71ccae640e6c895f4f/fr/json"
+params = {"appType":"website","applyConfig":True,"size":12,"start":0,"confId":"134","facets":{"39_10367":["Saint-Denis"]},"randomSeed":str(uuid.uuid4())}
 contains = "https://tgp.theatregerardphilipe.com/spectacle/"
-selection = utils.get_urls(url, contains)
+selection = utils.get_urls_from_json(url, contains, 'POST',params)
+print(selection['items'])
+
+for item in selection['items']:
+    print(item['town'])
+    print(item['title'])
+
+print(f"COUNT : {len(selection['items'])}")
+
+
+
 
 # Get event already created
-client = OpenAgendaClient()
-event_titles = []
-for i in range(0,3):
-    response = utils.get_events(client, {'state':i})
-    for event in response['events']:
-        event_titles.append(event['title']['fr'])
-        print(event['title']['fr'])
+# client = OpenAgendaClient()
+# event_titles = []
+# for i in range(0,3):
+#     response = utils.get_events(client, {'state':i})
+#     for event in response['events']:
+#         event_titles.append(event['title']['fr'])
+#         print(event['title']['fr'])
 
-for event_url in selection:
-    print(f'FOR EVENT: {event_url}')
-    create_event_from_url(event_url, loc_uid, event_titles)
+# for event_url in selection:
+#     print(f'FOR EVENT: {event_url}')
+#     create_event_from_url(event_url, loc_uid, event_titles)
+
+
+
+

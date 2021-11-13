@@ -72,10 +72,18 @@ class OpenAgendaClient():
 
         # GET
         if method == 'GET':
-            params = { **params, 'key' : self.public_key }
-            print(f'{HOST}v2/agendas/{self.agenda_uid}/{objects}?{parse.urlencode(params)}')
-            r = requests.get(f'{HOST}v2/agendas/{self.agenda_uid}/{objects}?{parse.urlencode(params)}')
-            return r
+            if 'uid' not in params:
+                params = { **params, 'key' : self.public_key }
+                print(f'{HOST}v2/agendas/{self.agenda_uid}/{objects}?{parse.urlencode(params)}')
+                r = requests.get(f'{HOST}v2/agendas/{self.agenda_uid}/{objects}?{parse.urlencode(params)}')
+                return r
+            else:
+                uid = params['uid']
+                del params['uid']
+                params = { **params, 'key' : self.public_key }
+                print(f'{HOST}v2/agendas/{self.agenda_uid}/{objects}/{uid}?{parse.urlencode(params)}')
+                r = requests.get(f'{HOST}v2/agendas/{self.agenda_uid}/{objects}/{uid}?{parse.urlencode(params)}')
+                return r
 
 
         # POST

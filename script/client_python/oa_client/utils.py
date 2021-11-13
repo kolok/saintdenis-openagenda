@@ -1,8 +1,18 @@
 import requests
 from bs4 import BeautifulSoup
 
-def get_urls(url, contains):
+def get_urls_from_json(url, contains, method='GET', params = {}):
+    if method == 'POST':
+        resp = requests.post(url, json=params)
+        data = resp.json()
+        return data
+    print("Left to code")
 
+def get_urls(url, contains, method='GET', params = {}):
+
+    if method == 'POST':
+        r = requests.post(url, data=params)
+        return r
     r = requests.get(url)
     soup = BeautifulSoup(r.content, 'html.parser')
     spectacles = []
@@ -12,6 +22,7 @@ def get_urls(url, contains):
             if contains in href:
                 spectacles.append(href)
     return list(set(spectacles))
+    
 
 
 def get_locations(oa_client):
@@ -22,7 +33,7 @@ def get_locations(oa_client):
     #     return locs['locations'][0]['uid']
     for loc in locs['locations']:
         print(f"{index}: {loc['name']}, adresse: {loc['address']}")
-        index == 1
+        index += 1
     number = input('choose a location : ')
     try:
         return locs['locations'][int(number)-1]['uid']
