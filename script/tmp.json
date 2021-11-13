@@ -1,0 +1,1335 @@
+[
+    {
+       "contract":"None",
+       "script":"None",
+       "bordereau":"FMA",
+       "sheetId":"3265140",
+       "covidCharterStatus":"None",
+       "covidServices":"None",
+       "title":"Jeroham Kouassi",
+       "type":"CULTURELLE",
+       "link":"https://www.tourisme-plainecommune-paris.com/que-faire/ou-sortir/agenda/jeroham-kouassi-3265140",
+       "targetBlank":true,
+       "address":"Centre Du Réveil Chrétien\n1 impasse de la Cokerie\n93200",
+       "town":"Saint-Denis",
+       "website":"None",
+       "phone":"None",
+       "gps":{
+          "type":"08.02.02.03",
+          "longitude":"2.363708",
+          "latitude":"48.920890"
+       },
+       "zones":"None",
+       "distance":"None",
+       "img":{
+          "url":{
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xMTEvMTk5LzEwNDA1NzQzLmpwZw==/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xMTEvMTk5LzEwNDA1NzQzLmpwZw==/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xMTEvMTk5LzEwNDA1NzQzLmpwZw==/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xMTEvMTk5LzEwNDA1NzQzLmpwZw==/image.jpg"
+          },
+          "title":"Jeroham Kouassi",
+          "alt":"Jeroham Kouassi"
+       },
+       "allImgs":[
+          {
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xMTEvMTk5LzEwNDA1NzQzLmpwZw==/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xMTEvMTk5LzEwNDA1NzQzLmpwZw==/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xMTEvMTk5LzEwNDA1NzQzLmpwZw==/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xMTEvMTk5LzEwNDA1NzQzLmpwZw==/image.jpg"
+          }
+       ],
+       "description":"Billets en vente à l'Office de Tourisme.\r\n- Point d'Information Tourisme BASILIQUE SAINT-DENIS\r\n1 rue de la République à Saint-Denis\r\nHoraires :\r\nDu lundi au dimanche : 9h45/13h - 14h/17h30\r\nOuverture les jours fériés : 10h/14h\r\nFermé les 1er janvier, 1er mai, 25 décembre\r\n- Point d'Information Tourisme SAINT-DENIS STADE DE FRANCE®\r\n19 rue Jules Rimet à Saint-Denis\r\nHoraires :\r\nMardi-Mercredi-Jeudi : 9h45/13h - 14h/17h30\r\nFermé les jours fériés\r\nOuvert les jours de matchs/concerts/spectacles",
+       "slogan":"Assistez à un concert de gospel !",
+       "desc":"Assistez à un concert de gospel !",
+       "dates":[
+          {
+             "oneday":true,
+             "over":"Terminé",
+             "start":{
+                "startDate":"2021-11-13T00:00:00+01:00",
+                "label":"Le",
+                "day":"13",
+                "month":"Novembre",
+                "shortMonth":"Nov."
+             },
+             "end":{
+                "endDate":"2021-11-13T23:59:59+01:00",
+                "label":"Le",
+                "weekday":"Samedi",
+                "day":"13",
+                "month":"Novembre",
+                "shortMonth":"Nov."
+             }
+          }
+       ],
+       "ratings":"None",
+       "extralabels":"None",
+       "itineraryLength":[
+          
+       ],
+       "locomotions":[
+          
+       ],
+       "fairguestReview":"None",
+       "userId":"None",
+       "tagCorner":"None",
+       "tariffs":{
+          "currency":"€",
+          "position":{
+             "left":true
+          }
+       },
+       "deals":"None",
+       "services":"None",
+       "specials":"None",
+       "chains":"None",
+       "territoryLabelBrands":"None",
+       "wishlistBtn":"None",
+       "itemClasses":"",
+       "itemData":[
+          {
+             "sheet-id":"3265140"
+          }
+       ]
+    },
+    {
+       "contract":"None",
+       "script":"None",
+       "bordereau":"FMA",
+       "sheetId":"3398145",
+       "covidCharterStatus":{
+          "99.06.14.01":"Charte sanitaire nationale respectée"
+       },
+       "covidServices":"None",
+       "title":"La Nuit du Cirque - La jeune création éclaire la 3e nuit du cirque",
+       "type":"CULTURELLE",
+       "link":"https://www.tourisme-plainecommune-paris.com/que-faire/ou-sortir/agenda/la-nuit-du-cirque-la-jeune-creation-eclaire-la-3e-nuit-du-cirque-3398145",
+       "targetBlank":true,
+       "address":"Académie Fratellini\nRue des Cheminots\n93200",
+       "town":"Saint-Denis",
+       "website":"None",
+       "phone":"None",
+       "gps":{
+          "type":"08.02.02.03",
+          "longitude":"2.351849",
+          "latitude":"48.916722"
+       },
+       "zones":"None",
+       "distance":"None",
+       "img":{
+          "url":{
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMjAvMTcwLzExNDQ3MDA0LmpwZw==/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMjAvMTcwLzExNDQ3MDA0LmpwZw==/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMjAvMTcwLzExNDQ3MDA0LmpwZw==/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMjAvMTcwLzExNDQ3MDA0LmpwZw==/image.jpg"
+          },
+          "title":"La Nuit du Cirque - La jeune création éclaire la 3e nuit du cirque",
+          "alt":"La Nuit du Cirque - La jeune création éclaire la 3e nuit du cirque"
+       },
+       "allImgs":[
+          {
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMjAvMTcwLzExNDQ3MDA0LmpwZw==/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMjAvMTcwLzExNDQ3MDA0LmpwZw==/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMjAvMTcwLzExNDQ3MDA0LmpwZw==/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMjAvMTcwLzExNDQ3MDA0LmpwZw==/image.jpg"
+          }
+       ],
+       "description":"Sur piste, ils seront interprètes d’une création spéciale et unique de Christian et François Ben Aïm. Danseurs chorégraphes, formés au théâtre physique et au cirque, ces deux artistes ont signé une vingtaine de pièces en binôme, renforcés par des complicités artistiques venues de tous horizons.\r\n\r\nLa musique live occupe aussi une place essentielle dans leur démarche, c\\'est donc un duo de choix pour mener cette douzaine de jeunes artistes, circassiens, musiciens et chanteurs classiques au firmament !\r\n\r\nDécouvrez deux spectacles (à partir de 8 ans) : \r\n- \"Les Imprévisibles\" dans le Grand Chapiteau. \r\nUne communauté de l\\'absurde. \r\nUne douzaine d\\'hommes et de femmes ont tous rendez-vous au même endroit mais aucun d\\'eux ne se souvient pourquoi... \r\nCommence alors un dialogue imprévisible, parfois incohérent, parfois tendre, parfois loufoque pour tenter de se comprendre et donner sens à leur rassemblement.  \r\n\r\n - \"Animals\" dans la Halle.\r\nEn 2011,  \"Bestioles\" petite forme interprétée par Matias Pilet et Alexandre Fournier (portés acrobatiques) et Malte Peter (jonglage) était créée par Anna Rodriguez pour le festival des arts du cirque CIRCA. \r\nAujourd’hui, c’est avec \"Animals\" que s’écrit une nouvelle symbiose de jeu mené par l’octet des actuels apprenti.es de 1re année.Terrain malicieux, stratégiques, shootes et faux départs combinés à des brèves histoires de complicité, pour continuer malgré tout, à tenir debout dans un monde qui se résumerait comme en 2011, à un simple carré de vert gazon.",
+       "slogan":"La jeune création est à l’honneur à l’Académie Fratellini puisque ce sont des apprenti.e.s et étudiant.e.s musicien.ne.s du Pôle Sup’93 qui constituent la voûte céleste de cette Nuit circassienne.",
+       "desc":"La jeune création est à l’honneur à l’Académie Fratellini puisque ce sont des apprenti.e.s et étudiant.e.s musicien.ne.s du Pôle Sup’93 qui constituent la voûte céleste de cette Nuit circassienne.",
+       "dates":[
+          {
+             "oneday":true,
+             "over":"Terminé",
+             "start":{
+                "startDate":"2021-11-14T00:00:00+01:00",
+                "label":"Le",
+                "day":"14",
+                "month":"Novembre",
+                "shortMonth":"Nov."
+             },
+             "end":{
+                "endDate":"2021-11-14T23:59:59+01:00",
+                "label":"Le",
+                "weekday":"Dimanche",
+                "day":"14",
+                "month":"Novembre",
+                "shortMonth":"Nov."
+             }
+          }
+       ],
+       "booking":{
+          "link":"https://academie-fratellini.fnacspectacles.com/place-spectacle/ticket-evenement/nouveau-cirque-nuit-du-cirque-resafnui-lt.htm",
+          "central":false,
+          "text":"Réserver"
+       },
+       "ratings":"None",
+       "extralabels":"None",
+       "itineraryLength":[
+          
+       ],
+       "locomotions":[
+          
+       ],
+       "fairguestReview":"None",
+       "userId":"None",
+       "tagCorner":"None",
+       "tariffs":{
+          "from":"2021-11-12T00:00:00+01:00",
+          "to":"2021-11-14T23:59:59+01:00",
+          "price":"8",
+          "hasSinglePrice":false,
+          "type":"Tarif plein",
+          "free":"Gratuit",
+          "label":"À partir de",
+          "subinfos":{
+             "label":"Meilleur prix garanti",
+             "tooltip":"Meilleur prix garanti sans commission par Plaine Commune"
+          },
+          "currency":"€",
+          "position":{
+             "left":true
+          }
+       },
+       "deals":"None",
+       "services":"None",
+       "specials":"None",
+       "chains":"None",
+       "territoryLabelBrands":"None",
+       "wishlistBtn":"None",
+       "itemClasses":"",
+       "itemData":[
+          {
+             "sheet-id":"3398145"
+          }
+       ]
+    },
+    {
+       "contract":"None",
+       "script":"None",
+       "bordereau":"FMA",
+       "sheetId":"3366043",
+       "covidCharterStatus":"None",
+       "covidServices":"None",
+       "title":"Franchir l’espace",
+       "type":"CULTURELLE",
+       "link":"https://www.tourisme-plainecommune-paris.com/que-faire/ou-sortir/agenda/nous-etions-des-humains-3366043",
+       "targetBlank":true,
+       "address":"60 Adada\n60 rue Gabriel Péri\n93200",
+       "town":"Saint-Denis",
+       "website":"None",
+       "phone":"None",
+       "gps":{
+          "type":"08.02.02.03",
+          "longitude":"2.356016",
+          "latitude":"48.934550"
+       },
+       "zones":"None",
+       "distance":"None",
+       "img":{
+          "url":{
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMjcvMjI4LzExMzk2MzIzLmpwZw==/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMjcvMjI4LzExMzk2MzIzLmpwZw==/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMjcvMjI4LzExMzk2MzIzLmpwZw==/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMjcvMjI4LzExMzk2MzIzLmpwZw==/image.jpg"
+          },
+          "title":"Franchir l’espace",
+          "alt":"Franchir l’espace"
+       },
+       "allImgs":[
+          {
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMjcvMjI4LzExMzk2MzIzLmpwZw==/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMjcvMjI4LzExMzk2MzIzLmpwZw==/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMjcvMjI4LzExMzk2MzIzLmpwZw==/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMjcvMjI4LzExMzk2MzIzLmpwZw==/image.jpg"
+          },
+          {
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMjgvMjI4LzExMzk2MzI0LmpwZw==/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMjgvMjI4LzExMzk2MzI0LmpwZw==/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMjgvMjI4LzExMzk2MzI0LmpwZw==/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMjgvMjI4LzExMzk2MzI0LmpwZw==/image.jpg"
+          },
+          {
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yNDkvMTQ0LzExMTc4MjMzLnBuZw==/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yNDkvMTQ0LzExMTc4MjMzLnBuZw==/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yNDkvMTQ0LzExMTc4MjMzLnBuZw==/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yNDkvMTQ0LzExMTc4MjMzLnBuZw==/image.jpg"
+          }
+       ],
+       "description":"Associant dessins et grand format des peintures, \"Franchir l’espace\" invite à voir s’animer les machines et les architectures. L’artiste invite le céramiste Hugo Saby, qui poursuit, lui, dans la matière leur conjointe observation minutieuse d’une quotidienneté fantastique.\r\n\r\nVernissage vendredi 5 novembre à partir de 18h.\r\n\r\n Autour de l\\'exposition :\r\n- dimanche 7 novembre à 17h : création en regard de l’exposition avec Laure Fouard, danseuse et Dante Feijoo, musicien ;\r\n- dimanche 14 novembre de 15h à 17h : atelier « Interpréter une œuvre de l’exposition »,  atelier dessin et linogravure animé par Sophie Bravo de la Peña et Mira Baek.",
+       "slogan":"Exposition de Sophie Bravo de la Peña.",
+       "desc":"Exposition de Sophie Bravo de la Peña.",
+       "dates":[
+          {
+             "oneday":false,
+             "over":"Terminé",
+             "start":{
+                "startDate":"2021-11-05T00:00:00+01:00",
+                "label":"Du",
+                "day":"5",
+                "month":"Novembre",
+                "shortMonth":"Nov."
+             },
+             "end":{
+                "endDate":"2021-11-14T23:59:59+01:00",
+                "label":"au",
+                "weekday":"Dimanche",
+                "day":"14",
+                "month":"Novembre",
+                "shortMonth":"Nov."
+             }
+          }
+       ],
+       "ratings":"None",
+       "extralabels":"None",
+       "itineraryLength":[
+          
+       ],
+       "locomotions":[
+          
+       ],
+       "fairguestReview":"None",
+       "userId":"None",
+       "tagCorner":"None",
+       "tariffs":{
+          "from":"2021-11-05T00:00:00+01:00",
+          "to":"2021-11-14T23:59:59+01:00",
+          "price":"0",
+          "hasSinglePrice":true,
+          "type":"Tarif plein",
+          "free":"Gratuit",
+          "currency":"€",
+          "position":{
+             "left":true
+          }
+       },
+       "deals":"None",
+       "services":"None",
+       "specials":"None",
+       "chains":"None",
+       "territoryLabelBrands":"None",
+       "wishlistBtn":"None",
+       "itemClasses":"",
+       "itemData":[
+          {
+             "sheet-id":"3366043"
+          }
+       ]
+    },
+    {
+       "contract":"None",
+       "script":"None",
+       "bordereau":"FMA",
+       "sheetId":"2626938",
+       "covidCharterStatus":"None",
+       "covidServices":"None",
+       "title":"64ème Salon de l'Union des Arts Plastiques de Saint-Denis",
+       "type":"CULTURELLE",
+       "link":"https://www.tourisme-plainecommune-paris.com/que-faire/ou-sortir/agenda/64eme-salon-de-l-union-des-arts-plastiques-de-saint-denis-2626938",
+       "targetBlank":true,
+       "address":"Salle de la Légion d'honneur\n6 rue de la Légion d'honneur\n93200",
+       "town":"Saint-Denis",
+       "website":"None",
+       "phone":"None",
+       "gps":{
+          "type":"08.02.02.03",
+          "longitude":"2.357712",
+          "latitude":"48.933485"
+       },
+       "zones":"None",
+       "distance":"None",
+       "img":{
+          "url":{
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xNDIvMjU1LzExNDAzMTUwLmpwZw==/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xNDIvMjU1LzExNDAzMTUwLmpwZw==/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xNDIvMjU1LzExNDAzMTUwLmpwZw==/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xNDIvMjU1LzExNDAzMTUwLmpwZw==/image.jpg"
+          },
+          "title":"64ème Salon de l'Union des Arts Plastiques de Saint-Denis",
+          "alt":"64ème Salon de l'Union des Arts Plastiques de Saint-Denis"
+       },
+       "allImgs":[
+          {
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xNDIvMjU1LzExNDAzMTUwLmpwZw==/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xNDIvMjU1LzExNDAzMTUwLmpwZw==/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xNDIvMjU1LzExNDAzMTUwLmpwZw==/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xNDIvMjU1LzExNDAzMTUwLmpwZw==/image.jpg"
+          }
+       ],
+       "description":"Le salon accueille plus de 200 œuvres d’une cinquantaine d’artistes de toutes les disciplines : peintres, photographes, sculpteurs, vidéastes, plasticiens.\r\n\r\nInvitées d’honneur : Les sœurs Chevalme. Invité UAP : Earl.",
+       "slogan":"L’Union des Arts Plastiques de Saint-Denis dédie son 64ème Salon au nu artistique, sur le thème \"Corps & graphies\" !",
+       "desc":"L’Union des Arts Plastiques de Saint-Denis dédie son 64ème Salon au nu artistique, sur le thème \"Corps & graphies\" !",
+       "dates":[
+          {
+             "oneday":false,
+             "over":"Terminé",
+             "start":{
+                "startDate":"2021-11-05T00:00:00+01:00",
+                "label":"Du",
+                "day":"5",
+                "month":"Novembre",
+                "shortMonth":"Nov."
+             },
+             "end":{
+                "endDate":"2021-11-15T23:59:59+01:00",
+                "label":"au",
+                "weekday":"Lundi",
+                "day":"15",
+                "month":"Novembre",
+                "shortMonth":"Nov."
+             }
+          }
+       ],
+       "ratings":"None",
+       "extralabels":"None",
+       "itineraryLength":[
+          
+       ],
+       "locomotions":[
+          
+       ],
+       "fairguestReview":"None",
+       "userId":"None",
+       "tagCorner":"None",
+       "tariffs":{
+          "from":"2021-11-10T00:00:00+01:00",
+          "to":"2021-11-15T23:59:59+01:00",
+          "price":"0",
+          "hasSinglePrice":true,
+          "type":"Tarif plein",
+          "free":"Gratuit",
+          "currency":"€",
+          "position":{
+             "left":true
+          }
+       },
+       "deals":"None",
+       "services":"None",
+       "specials":"None",
+       "chains":"None",
+       "territoryLabelBrands":"None",
+       "wishlistBtn":"None",
+       "itemClasses":"",
+       "itemData":[
+          {
+             "sheet-id":"2626938"
+          }
+       ]
+    },
+    {
+       "contract":"None",
+       "script":"None",
+       "bordereau":"FMA",
+       "sheetId":"2923873",
+       "covidCharterStatus":"None",
+       "covidServices":"None",
+       "title":"L'absence de père",
+       "type":"CULTURELLE",
+       "link":"https://www.tourisme-plainecommune-paris.com/que-faire/ou-sortir/agenda/l-absence-de-pere-2923873",
+       "targetBlank":true,
+       "address":"TGP (Théâtre Gérard Philipe)\n59 boulevard Jules Guesde\n93200",
+       "town":"Saint-Denis",
+       "website":"None",
+       "phone":"None",
+       "gps":{
+          "type":"08.02.02.03",
+          "longitude":"2.350341",
+          "latitude":"48.938269"
+       },
+       "zones":"None",
+       "distance":"None",
+       "img":{
+          "url":{
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yNS8xMDkvODYxMzE0NS5qcGc=/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yNS8xMDkvODYxMzE0NS5qcGc=/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yNS8xMDkvODYxMzE0NS5qcGc=/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yNS8xMDkvODYxMzE0NS5qcGc=/image.jpg"
+          },
+          "title":"L'absence de père",
+          "alt":"L'absence de père"
+       },
+       "allImgs":[
+          {
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yNS8xMDkvODYxMzE0NS5qcGc=/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yNS8xMDkvODYxMzE0NS5qcGc=/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yNS8xMDkvODYxMzE0NS5qcGc=/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yNS8xMDkvODYxMzE0NS5qcGc=/image.jpg"
+          }
+       ],
+       "description":"C’est soir de fête dans la maison d’Anna Petrovna, jeune veuve qui, ne pouvant faire face à ses dettes, est sur le point de perdre sa propriété.\r\nÀ moins que Paul Pétrine, riche homme d’affaires qui s’est entiché d’elle, puisse la sauver de la ruine ? Sont aussi présents le beau-fils d’Anna, Sergueï et sa femme Sophie, Michel Platonov, instituteur de campagne et amour de jeunesse de Sophie, maintenant marié à Sacha et père depuis peu, ainsi que quelques autres… Huit trentenaires de milieux disparates, dans des vies mal ajustées, résignées ou étriquées, des vies rêvées trop grandes. Ce qui devait être de joyeuses retrouvailles tourne vite aux répliques pleines d’aigreur et aux joutes verbales sarcastiques. Platonov, « petit Platon », charme, déçoit, pique, questionne et instigue – comme il le fait pour lui-même – chez ces êtres enfermés dans leurs petites vies le doute. La metteure en scène Lorraine de Sagazan et l’écrivain Guillaume Poix ont pris à bras le corps ce texte de jeunesse de Tchekhov, inachevé, épars, foisonnant. Du souffle rapide et des émotions abrasives, ils ont retenu le rythme et le désenchantement, revitalisant les mots tout en gardant l’intention première de l’auteur. Ils y ont greffé une écriture volontairement contemporaine et joint des souvenirs vécus et intimes des acteurs, créant ainsi la généalogie mouvante d’une fiction ultra réaliste, de la scène à la vie. Ces récits personnels résonnent avec ceux des spectateurs qui, répartis sur les quatre côtés du plateau, au plus près des émois et des échecs vibrants, sont pris à témoin des questionnements d’une génération qui se cherche, ne se retrouve pas, qui se désire, se déchire, essaye de se consoler. Sur fond de fracture et de déterminisme social, entre désillusion et colère, la compagnie La Brèche déconstruit les héritages paternels et leurs idéaux dans une ardente et incessante volonté de vivre. \r\n\r\n« J’ai trente-cinq ans. Je suis un zéro. Un raté. J’ai trente-cinq ans. Je n’ai rien fait de ma vie. Où est ma force ? Ou est mon talent ? Ma vie est un désastre. Hamlet avait peur de rêver, moi j’ai peur de vivre. Finita la commedia. Rideau »\r\n\r\nRencontre avec l’équipe artistique\r\ndimanche 31 jan. 2021\r\nrencontre à l'issue de la représentation\nhttps://www.forumsirius.fr/orion/tgp.phtml?spec=905",
+       "slogan":"Une adaptation de la pièce Platonov d'Anton Tchekhov.",
+       "desc":"Une adaptation de la pièce Platonov d'Anton Tchekhov.",
+       "dates":[
+          {
+             "oneday":false,
+             "over":"Terminé",
+             "start":{
+                "startDate":"2021-11-12T00:00:00+01:00",
+                "label":"Du",
+                "day":"12",
+                "month":"Novembre",
+                "shortMonth":"Nov."
+             },
+             "end":{
+                "endDate":"2021-11-17T23:59:59+01:00",
+                "label":"au",
+                "weekday":"Mercredi",
+                "day":"17",
+                "month":"Novembre",
+                "shortMonth":"Nov."
+             }
+          }
+       ],
+       "ratings":"None",
+       "extralabels":"None",
+       "itineraryLength":[
+          
+       ],
+       "locomotions":[
+          
+       ],
+       "fairguestReview":"None",
+       "userId":"None",
+       "tagCorner":"None",
+       "tariffs":{
+          "from":"2021-11-12T00:00:00+01:00",
+          "to":"2021-11-17T23:59:59+01:00",
+          "price":"23",
+          "hasSinglePrice":true,
+          "type":"Tarif plein",
+          "free":"Gratuit",
+          "subinfos":{
+             "label":"Meilleur prix garanti",
+             "tooltip":"Meilleur prix garanti sans commission par Plaine Commune"
+          },
+          "currency":"€",
+          "position":{
+             "left":true
+          }
+       },
+       "deals":"None",
+       "services":"None",
+       "specials":"None",
+       "chains":"None",
+       "territoryLabelBrands":"None",
+       "wishlistBtn":"None",
+       "itemClasses":"",
+       "itemData":[
+          {
+             "sheet-id":"2923873"
+          }
+       ]
+    },
+    {
+       "contract":"None",
+       "script":"None",
+       "bordereau":"FMA",
+       "sheetId":"2678129",
+       "covidCharterStatus":"None",
+       "covidServices":"None",
+       "title":"CinéBanlieue",
+       "type":"CULTURELLE",
+       "link":"https://www.tourisme-plainecommune-paris.com/que-faire/ou-sortir/agenda/cinebanlieue-2678129",
+       "targetBlank":true,
+       "address":"Cinéma l'Écran\n14 passage de l'Aqueduc\n93200",
+       "town":"Saint-Denis",
+       "website":"None",
+       "phone":"None",
+       "gps":{
+          "type":"08.02.02.03",
+          "longitude":"2.359092",
+          "latitude":"48.936734"
+       },
+       "zones":"None",
+       "distance":"None",
+       "img":{
+          "url":{
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yNDUvMjUvMTE0NzU0NDUuanBn/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yNDUvMjUvMTE0NzU0NDUuanBn/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yNDUvMjUvMTE0NzU0NDUuanBn/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yNDUvMjUvMTE0NzU0NDUuanBn/image.jpg"
+          },
+          "title":"CinéBanlieue",
+          "alt":"CinéBanlieue"
+       },
+       "allImgs":[
+          {
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yNDUvMjUvMTE0NzU0NDUuanBn/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yNDUvMjUvMTE0NzU0NDUuanBn/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yNDUvMjUvMTE0NzU0NDUuanBn/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yNDUvMjUvMTE0NzU0NDUuanBn/image.jpg"
+          }
+       ],
+       "description":"L'objectif de ce festival est de porter un éclairage différent sur la banlieue et ses habitants.\r\nAu programme : avant-premières, versions restaurées, courts-métrages, rencontres avec les équipes des films...\r\n\r\nSéances à l’Écran à Saint-Denis (93), Commune Image à Saint-Ouen (93), Le Studio à Aubervilliers (93) et l’UGC Ciné-Cité à Paris (19e).\r\n\r\nDécouvrez tout le programme du festival sur le site Internet !",
+       "slogan":"Ce festival de cinéma présente de jeunes talents issus des quartiers et en manque de visibilité !",
+       "desc":"Ce festival de cinéma présente de jeunes talents issus des quartiers et en manque de visibilité !",
+       "dates":[
+          {
+             "oneday":false,
+             "over":"Terminé",
+             "start":{
+                "startDate":"2021-11-10T00:00:00+01:00",
+                "label":"Du",
+                "day":"10",
+                "month":"Novembre",
+                "shortMonth":"Nov."
+             },
+             "end":{
+                "endDate":"2021-11-18T23:59:59+01:00",
+                "label":"au",
+                "weekday":"Jeudi",
+                "day":"18",
+                "month":"Novembre",
+                "shortMonth":"Nov."
+             }
+          }
+       ],
+       "ratings":"None",
+       "extralabels":"None",
+       "itineraryLength":[
+          
+       ],
+       "locomotions":[
+          
+       ],
+       "fairguestReview":"None",
+       "userId":"None",
+       "tagCorner":"None",
+       "tariffs":{
+          "currency":"€",
+          "position":{
+             "left":true
+          }
+       },
+       "deals":"None",
+       "services":"None",
+       "specials":"None",
+       "chains":"None",
+       "territoryLabelBrands":"None",
+       "wishlistBtn":"None",
+       "itemClasses":"",
+       "itemData":[
+          {
+             "sheet-id":"2678129"
+          }
+       ]
+    },
+    {
+       "contract":"None",
+       "script":"None",
+       "bordereau":"FMA",
+       "sheetId":"2631332",
+       "covidCharterStatus":"None",
+       "covidServices":"None",
+       "title":"Visite insolite et chantée parmi les rois de France",
+       "type":"CULTURELLE",
+       "link":"https://www.tourisme-plainecommune-paris.com/que-faire/ou-sortir/agenda/visite-insolite-et-chantee-parmi-les-rois-de-france-2631332",
+       "targetBlank":true,
+       "address":"Basilique cathédrale de Saint-Denis\n1 rue de la Légion d'Honneur\n93200",
+       "town":"Saint-Denis",
+       "website":"None",
+       "phone":"None",
+       "gps":{
+          "type":"08.02.02.03",
+          "longitude":"2.359854",
+          "latitude":"48.935499"
+       },
+       "zones":"None",
+       "distance":"None",
+       "img":{
+          "url":{
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy82LzE3MS82NzkzOTkwLmpwZw==/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy82LzE3MS82NzkzOTkwLmpwZw==/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy82LzE3MS82NzkzOTkwLmpwZw==/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy82LzE3MS82NzkzOTkwLmpwZw==/image.jpg"
+          },
+          "title":"Visite insolite et chantée parmi les rois de France",
+          "alt":"Visite insolite et chantée parmi les rois de France"
+       },
+       "allImgs":[
+          {
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy82LzE3MS82NzkzOTkwLmpwZw==/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy82LzE3MS82NzkzOTkwLmpwZw==/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy82LzE3MS82NzkzOTkwLmpwZw==/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy82LzE3MS82NzkzOTkwLmpwZw==/image.jpg"
+          }
+       ],
+       "description":"Grégoire Ichou, chanteur lyrique, ténor et conférencier, vous guidera en musique à la découverte de la basilique, de sa nécropole royale, de sa mystérieuse crypte, de l’histoire des rois et des reines de France, de ses chefs-d’œuvre de marbres, de pierres et de ses vitraux majestueux.\r\n\r\nLa visite associera alternativement chants en musique et commentaires historiques choisis, afin d’évoquer et d’illustrer par la voix un des monuments les plus emblématiques de l’histoire de France. \r\n\r\nGrégoire Ichou a soigneusement sélectionné pour vous un répertoire teinté de chant grégorien, de chanson française, de musique baroque et d’opérette. S’harmonisent ainsi musique et histoire, mélodie et récit pour évoquer et illustrer par la voix cet héritage patrimonial.\r\n\r\nLa visite s’achèvera sur une surprise musicale…\r\n\r\n>>> Durée : 75 minutes environ.\r\n>>> Uniquement sur réservation.",
+       "slogan":"Ne manquez pas cette découverte inoubliable de la basilique royale avec Grégoire Ichou, ténor et conférencier.",
+       "desc":"Ne manquez pas cette découverte inoubliable de la basilique royale avec Grégoire Ichou, ténor et conférencier.",
+       "dates":[
+          {
+             "oneday":false,
+             "over":"Terminé",
+             "start":{
+                "startDate":"2021-11-19T00:00:00+01:00",
+                "label":"Du",
+                "day":"19",
+                "month":"Novembre",
+                "shortMonth":"Nov."
+             },
+             "end":{
+                "endDate":"2021-11-20T23:59:59+01:00",
+                "label":"au",
+                "weekday":"Samedi",
+                "day":"20",
+                "month":"Novembre",
+                "shortMonth":"Nov."
+             }
+          }
+       ],
+       "booking":{
+          "link":"https://ticket.monuments-nationaux.fr/Offres.aspx?anchor=tarif",
+          "central":false,
+          "text":"Réserver"
+       },
+       "ratings":"None",
+       "extralabels":"None",
+       "itineraryLength":[
+          
+       ],
+       "locomotions":[
+          
+       ],
+       "fairguestReview":"None",
+       "userId":"None",
+       "tagCorner":"None",
+       "tariffs":{
+          "from":"2021-11-19T00:00:00+01:00",
+          "to":"2021-11-20T23:59:59+01:00",
+          "price":"20",
+          "hasSinglePrice":true,
+          "type":"Tarif plein",
+          "free":"Gratuit",
+          "subinfos":{
+             "label":"Meilleur prix garanti",
+             "tooltip":"Meilleur prix garanti sans commission par Plaine Commune"
+          },
+          "currency":"€",
+          "position":{
+             "left":true
+          }
+       },
+       "deals":"None",
+       "services":"None",
+       "specials":"None",
+       "chains":"None",
+       "territoryLabelBrands":"None",
+       "wishlistBtn":"None",
+       "itemClasses":"",
+       "itemData":[
+          {
+             "sheet-id":"2631332"
+          }
+       ]
+    },
+    {
+       "contract":"None",
+       "script":"None",
+       "bordereau":"FMA",
+       "sheetId":"2813197",
+       "covidCharterStatus":{
+          "99.06.14.01":"Charte sanitaire nationale respectée"
+       },
+       "covidServices":"None",
+       "title":"Visite du futur Village des athlètes de 2024, un nouveau quartier de ville pour 2025",
+       "type":"CULTURELLE",
+       "link":"https://www.tourisme-plainecommune-paris.com/que-faire/ou-sortir/agenda/visite-du-futur-village-des-athletes-de-2024-un-nouveau-quartier-de-ville-pour-2025-2813197",
+       "targetBlank":true,
+       "address":"Saint-Denis\n93200",
+       "town":"Saint-Denis",
+       "website":"None",
+       "phone":"None",
+       "gps":{
+          "type":"08.02.02.03",
+          "longitude":"2.344087",
+          "latitude":"48.920473"
+       },
+       "zones":"None",
+       "distance":"None",
+       "img":{
+          "url":{
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xOTMvMjcvOTk2ODU3Ny5qcGc=/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xOTMvMjcvOTk2ODU3Ny5qcGc=/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xOTMvMjcvOTk2ODU3Ny5qcGc=/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xOTMvMjcvOTk2ODU3Ny5qcGc=/image.jpg"
+          },
+          "title":"Visite du futur Village des athlètes de 2024, un nouveau quartier de ville pour 2025",
+          "alt":"Visite du futur Village des athlètes de 2024, un nouveau quartier de ville pour 2025"
+       },
+       "allImgs":[
+          {
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xOTMvMjcvOTk2ODU3Ny5qcGc=/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xOTMvMjcvOTk2ODU3Ny5qcGc=/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xOTMvMjcvOTk2ODU3Ny5qcGc=/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xOTMvMjcvOTk2ODU3Ny5qcGc=/image.jpg"
+          }
+       ],
+       "description":"Un des premiers chantiers à s’ouvrir est celui du Village des athlètes. Situé sur les communes de Saint-Denis, Saint-Ouen-sur-Seine et L’Ile-Saint-Denis, ce nouveau quartier accueillera près de 15 000 athlètes et leurs accompagnateurs.Nous vous proposons de suivre ce chantier au fil du temps qui nous sépare de cet événement sportif majeur.Depuis les premiers travaux de déconstruction fin 2019 jusqu'à la livraison en 2024, ces visites vous permettront de suivre l’évolution de ce chantier gigantesque de 51 hectares mené dans un temps record! Vous découvrirez un projet urbain créé pour accueillir de nouveaux habitants en 2025,et adapté en 2024 pour les athlètes.Composé d’immeubles d’habitations, de bureau, d’équipements, de services et de commerces de proximité, et agrémenté d’espaces verts généreux à proximité des transports en commun et de la Seine, le Village des athlètes s’insère au milieu d’un quartier déjà existant. Les traces du passé industriel du quartier Pleyel de Saint-Denis seront conservées et réhabilitées, et les constructions à venir répondront à de hautes ambitions environnementales. \r\n\r\n>>> L’Office de Tourisme de Plaine Commune Grand Paris, en partenariat avec la SOLIDEO,société chargée de la livraison des ouvrages olympiques, ont choisi de confier ces visites à des jeunes qui se forment aux métiers de guides professionnels et médiateurs culturels. Pour ces étudiants, ces visites sont une étape vers le monde du travail. Une traduction parfaite des engagements de la SOLIDEO et de l’ensemble des maîtres d’ouvrages mobilisés pour les Jeux de 2024: faire de cet un événement sportif un projet collectif et inclusif.\r\n\r\n>>> Uniquement sur réservation.",
+       "slogan":"En 2024, Paris et la Seine-Saint-Denis accueilleront l’essentiel des compétitions des Jeux Olympiques et Paralympiques, avec l’ambition de laisser, après les Jeux, un héritage aux populations.",
+       "desc":"En 2024, Paris et la Seine-Saint-Denis accueilleront l’essentiel des compétitions des Jeux Olympiques et Paralympiques, avec l’ambition de laisser, après les Jeux, un héritage aux populations.",
+       "dates":[
+          {
+             "oneday":true,
+             "over":"Terminé",
+             "start":{
+                "startDate":"2021-11-17T00:00:00+01:00",
+                "label":"Le",
+                "day":"17",
+                "month":"Novembre",
+                "shortMonth":"Nov."
+             },
+             "end":{
+                "endDate":"2021-11-17T23:59:59+01:00",
+                "label":"Le",
+                "weekday":"Mercredi",
+                "day":"17",
+                "month":"Novembre",
+                "shortMonth":"Nov."
+             }
+          },
+          {
+             "oneday":true,
+             "over":"Terminé",
+             "start":{
+                "startDate":"2021-11-27T00:00:00+01:00",
+                "label":"Le",
+                "day":"27",
+                "month":"Novembre",
+                "shortMonth":"Nov."
+             },
+             "end":{
+                "endDate":"2021-11-27T23:59:59+01:00",
+                "label":"Le",
+                "weekday":"Samedi",
+                "day":"27",
+                "month":"Novembre",
+                "shortMonth":"Nov."
+             }
+          }
+       ],
+       "booking":{
+          "link":"https://boutique.tourisme-plainecommune-paris.com/visites-guidees/visites-du-village-des-athletes/futur-village-des-athletes-2024",
+          "central":false,
+          "text":"Réserver"
+       },
+       "ratings":"None",
+       "extralabels":"None",
+       "itineraryLength":[
+          
+       ],
+       "locomotions":[
+          
+       ],
+       "fairguestReview":"None",
+       "userId":"None",
+       "tagCorner":"None",
+       "tariffs":{
+          "from":"2021-10-30T00:00:00+02:00",
+          "to":"2021-11-27T23:59:59+01:00",
+          "price":"10",
+          "hasSinglePrice":true,
+          "type":"Tarif plein",
+          "free":"Gratuit",
+          "subinfos":{
+             "label":"Meilleur prix garanti",
+             "tooltip":"Meilleur prix garanti sans commission par Plaine Commune"
+          },
+          "currency":"€",
+          "position":{
+             "left":true
+          }
+       },
+       "deals":"None",
+       "services":"None",
+       "specials":"None",
+       "chains":"None",
+       "territoryLabelBrands":"None",
+       "wishlistBtn":"None",
+       "itemClasses":"",
+       "itemData":[
+          {
+             "sheet-id":"2813197"
+          }
+       ]
+    },
+    {
+       "contract":"None",
+       "script":"None",
+       "bordereau":"FMA",
+       "sheetId":"862198",
+       "covidCharterStatus":{
+          "99.06.14.01":"Charte sanitaire nationale respectée"
+       },
+       "covidServices":"None",
+       "title":"La maison d'éducation de la Légion d'honneur",
+       "type":"CULTURELLE",
+       "link":"https://www.tourisme-plainecommune-paris.com/que-faire/ou-sortir/agenda/la-maison-d-education-de-la-legion-d-honneur-862198",
+       "targetBlank":true,
+       "address":"Saint-Denis\n93200",
+       "town":"Saint-Denis",
+       "website":"None",
+       "phone":"None",
+       "gps":{
+          "type":"08.02.02.03",
+          "longitude":"2.357494",
+          "latitude":"48.935888"
+       },
+       "zones":"None",
+       "distance":"None",
+       "img":{
+          "url":{
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy84MC8xMTcvODQxODY0MC5qcGc=/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy84MC8xMTcvODQxODY0MC5qcGc=/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy84MC8xMTcvODQxODY0MC5qcGc=/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy84MC8xMTcvODQxODY0MC5qcGc=/image.jpg"
+          },
+          "title":"La maison d'éducation de la Légion d'honneur",
+          "alt":"La maison d'éducation de la Légion d'honneur"
+       },
+       "allImgs":[
+          {
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy84MC8xMTcvODQxODY0MC5qcGc=/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy84MC8xMTcvODQxODY0MC5qcGc=/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy84MC8xMTcvODQxODY0MC5qcGc=/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy84MC8xMTcvODQxODY0MC5qcGc=/image.jpg"
+          },
+          {
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy84MS8xMTcvODQxODY0MS5qcGc=/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy84MS8xMTcvODQxODY0MS5qcGc=/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy84MS8xMTcvODQxODY0MS5qcGc=/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy84MS8xMTcvODQxODY0MS5qcGc=/image.jpg"
+          },
+          {
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy83OS8xMTcvODQxODYzOS5qcGc=/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy83OS8xMTcvODQxODYzOS5qcGc=/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy83OS8xMTcvODQxODYzOS5qcGc=/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy83OS8xMTcvODQxODYzOS5qcGc=/image.jpg"
+          }
+       ],
+       "description":"C’est la seconde maison d’éducation des filles de la Légion d’honneur créée par Napoléon, pour assurer l’instruction des jeunes filles orphelines.\r\n\r\nLes bâtiments du XVIIIème siècle portent l’empreinte d’architectes de renom, et après avoir accueilli les moines de l’abbaye bénédictine, ils seront transformés en 1795 en hôpital militaire. Depuis 1812, ils reçoivent en internat des élèves de la seconde jusqu’à la terminale. Un nouveau bâtiment vient d’être inauguré pour les étudiantes de classes préparatoires et BTS, dans le respect de l’organisation générale des bâtiments.\r\n\r\nLaissez-vous guider dans le cloître, la chapelle et le parc pour revivre les grands moments de l’histoire du lieu.\r\n\r\nDurée : 1h30 à 2h\r\nUniquement sur réservation.",
+       "slogan":"Poussez la porte cochère et perdez-vous dans les couloirs de l’ancienne abbaye royale de Saint-Denis, transformée dès le début du XIXème siècle en un établissement scolaire pas tout à fait comme les autres.",
+       "desc":"Poussez la porte cochère et perdez-vous dans les couloirs de l’ancienne abbaye royale de Saint-Denis, transformée dès le début du XIXème siècle en un établissement scolaire pas tout à fait comme les autres.",
+       "dates":[
+          {
+             "oneday":true,
+             "over":"Terminé",
+             "start":{
+                "startDate":"2021-11-19T00:00:00+01:00",
+                "label":"Le",
+                "day":"19",
+                "month":"Novembre",
+                "shortMonth":"Nov."
+             },
+             "end":{
+                "endDate":"2021-11-19T23:59:59+01:00",
+                "label":"Le",
+                "weekday":"Vendredi",
+                "day":"19",
+                "month":"Novembre",
+                "shortMonth":"Nov."
+             }
+          },
+          {
+             "oneday":true,
+             "over":"Terminé",
+             "start":{
+                "startDate":"2021-12-10T00:00:00+01:00",
+                "label":"Le",
+                "day":"10",
+                "month":"Décembre",
+                "shortMonth":"Déc."
+             },
+             "end":{
+                "endDate":"2021-12-10T23:59:59+01:00",
+                "label":"Le",
+                "weekday":"Vendredi",
+                "day":"10",
+                "month":"Décembre",
+                "shortMonth":"Déc."
+             }
+          }
+       ],
+       "booking":{
+          "link":"https://boutique.tourisme-plainecommune-paris.com/visites-guidees/visites-guidees/la-maison-deducation-de-la-legion-dhonneur",
+          "central":false,
+          "text":"Réserver"
+       },
+       "ratings":"None",
+       "extralabels":"None",
+       "itineraryLength":[
+          
+       ],
+       "locomotions":[
+          
+       ],
+       "fairguestReview":"None",
+       "userId":"None",
+       "tagCorner":"None",
+       "tariffs":{
+          "from":"2021-11-19T00:00:00+01:00",
+          "to":"2021-12-10T23:59:59+01:00",
+          "price":"10",
+          "hasSinglePrice":true,
+          "type":"Tarif plein",
+          "free":"Gratuit",
+          "subinfos":{
+             "label":"Meilleur prix garanti",
+             "tooltip":"Meilleur prix garanti sans commission par Plaine Commune"
+          },
+          "currency":"€",
+          "position":{
+             "left":true
+          }
+       },
+       "deals":"None",
+       "services":"None",
+       "specials":"None",
+       "chains":"None",
+       "territoryLabelBrands":"None",
+       "wishlistBtn":"None",
+       "itemClasses":"",
+       "itemData":[
+          {
+             "sheet-id":"862198"
+          }
+       ]
+    },
+    {
+       "contract":"None",
+       "script":"None",
+       "bordereau":"FMA",
+       "sheetId":"3264702",
+       "covidCharterStatus":"None",
+       "covidServices":"None",
+       "title":"En quête d'humanité",
+       "type":"CULTURELLE",
+       "link":"https://www.tourisme-plainecommune-paris.com/que-faire/ou-sortir/agenda/exposition-en-quete-d-humanite-3264702",
+       "targetBlank":true,
+       "address":"TGP (Théâtre Gérard Philipe)\n59 boulevard Jules Guesde\n93200",
+       "town":"Saint-Denis",
+       "website":"None",
+       "phone":"None",
+       "gps":{
+          "type":"08.02.02.03",
+          "longitude":"2.350341",
+          "latitude":"48.938269"
+       },
+       "zones":"None",
+       "distance":"None",
+       "img":{
+          "url":{
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xMjIvMTc5LzEwNDAwNjM0LmpwZw==/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xMjIvMTc5LzEwNDAwNjM0LmpwZw==/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xMjIvMTc5LzEwNDAwNjM0LmpwZw==/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xMjIvMTc5LzEwNDAwNjM0LmpwZw==/image.jpg"
+          },
+          "title":"En quête d'humanité",
+          "alt":"En quête d'humanité"
+       },
+       "allImgs":[
+          {
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xMjIvMTc5LzEwNDAwNjM0LmpwZw==/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xMjIvMTc5LzEwNDAwNjM0LmpwZw==/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xMjIvMTc5LzEwNDAwNjM0LmpwZw==/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xMjIvMTc5LzEwNDAwNjM0LmpwZw==/image.jpg"
+          }
+       ],
+       "description":"En écho à la création de Julie Deliquet Huit heures ne font pas un jour, le TGP et les Archives départementales de la Seine-Saint-Denis proposent de découvrir l’exposition En quête d’humanité, extraite du fonds photographique de Pierre Trovel. Reporter et photographe dionysien, Pierre Trovel a travaillé pour la ville de Saint-Denis à partir de 1967. \r\n\r\nEn 1975, il intègre la rédaction du journal l’Humanité qu’il quitte en 2010. Durant trente-cinq ans, Pierre Trovel travaille sur l’actualité économique, sociale et politique, tant locale et nationale qu’internationale. Sa qualité de reporter et photographe pour un journal militant lui permet notamment de photographier les usines de la Seine-Saint-Denis de l’intérieur, durant les grèves et les occupations, et de saisir des moments de la vie combative.\r\n\r\nÀ travers une soixantaine de clichés issus de reportages de presse, l’exposition est organisée autour de trois thèmes : les luttes ouvrières ; les territoires et leurs mutations ; des portraits individuels et collectifs, qui mettent en lumière l’humanité des personnes photographiées.\r\n\r\nPrésentées aux Archives départementales pour la première fois en janvier 2020, ces photographies révèlent quelques-unes des facettes d’un riche fonds d’archives photographiques (382 000 images) qui reste à découvrir : archives.seinesaintdenis.fr\r\n\r\nEn partenariat avec les Archives départementales de la Seine-Saint-Denis.\r\n\r\n→ Vernissage le 2 octobre en présence du photographe Pierre Trovel.\r\n\r\nEntrée libre du lundi au vendredi à partir de 14h ; les samedis et dimanches de représentations, 1h30 avant le début du premier spectacle.",
+       "slogan":"Présentée aux Archives départementales pour la première fois en janvier 2020.",
+       "desc":"Présentée aux Archives départementales pour la première fois en janvier 2020.",
+       "dates":[
+          {
+             "oneday":false,
+             "over":"Terminé",
+             "start":{
+                "startDate":"2021-09-29T00:00:00+02:00",
+                "label":"Du",
+                "day":"29",
+                "month":"Septembre",
+                "shortMonth":"Sept."
+             },
+             "end":{
+                "endDate":"2021-12-17T23:59:59+01:00",
+                "label":"au",
+                "weekday":"Vendredi",
+                "day":"17",
+                "month":"Décembre",
+                "shortMonth":"Déc."
+             }
+          }
+       ],
+       "ratings":"None",
+       "extralabels":"None",
+       "itineraryLength":[
+          
+       ],
+       "locomotions":[
+          
+       ],
+       "fairguestReview":"None",
+       "userId":"None",
+       "tagCorner":"None",
+       "tariffs":{
+          "from":"2021-10-18T00:00:00+02:00",
+          "to":"2021-12-17T23:59:59+01:00",
+          "price":"0",
+          "hasSinglePrice":true,
+          "type":"Tarif plein",
+          "free":"Gratuit",
+          "currency":"€",
+          "position":{
+             "left":true
+          }
+       },
+       "deals":"None",
+       "services":"None",
+       "specials":"None",
+       "chains":"None",
+       "territoryLabelBrands":"None",
+       "wishlistBtn":"None",
+       "itemClasses":"",
+       "itemData":[
+          {
+             "sheet-id":"3264702"
+          }
+       ]
+    },
+    {
+       "contract":"None",
+       "script":"None",
+       "bordereau":"FMA",
+       "sheetId":"1483044",
+       "covidCharterStatus":{
+          "99.06.14.01":"Charte sanitaire nationale respectée"
+       },
+       "covidServices":"None",
+       "title":"Les coulisses du Stade de France®",
+       "type":"CULTURELLE",
+       "link":"https://www.tourisme-plainecommune-paris.com/que-faire/ou-sortir/agenda/les-coulisses-du-stade-de-france-1483044",
+       "targetBlank":true,
+       "address":"Stade de France\nAvenue Jules Rimet\n93200",
+       "town":"Saint-Denis",
+       "website":"None",
+       "phone":"None",
+       "gps":{
+          "type":"08.02.02.03",
+          "longitude":"2.360184",
+          "latitude":"48.924666"
+       },
+       "zones":"None",
+       "distance":"None",
+       "img":{
+          "url":{
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xNzgvMjE0LzEwMTQ3NTA2LmpwZw==/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xNzgvMjE0LzEwMTQ3NTA2LmpwZw==/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xNzgvMjE0LzEwMTQ3NTA2LmpwZw==/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xNzgvMjE0LzEwMTQ3NTA2LmpwZw==/image.jpg"
+          },
+          "title":"Les coulisses du Stade de France®",
+          "alt":"Les coulisses du Stade de France®"
+       },
+       "allImgs":[
+          {
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xNzgvMjE0LzEwMTQ3NTA2LmpwZw==/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xNzgvMjE0LzEwMTQ3NTA2LmpwZw==/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xNzgvMjE0LzEwMTQ3NTA2LmpwZw==/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xNzgvMjE0LzEwMTQ3NTA2LmpwZw==/image.jpg"
+          },
+          {
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xNzkvMjE0LzEwMTQ3NTA3LmpwZw==/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xNzkvMjE0LzEwMTQ3NTA3LmpwZw==/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xNzkvMjE0LzEwMTQ3NTA3LmpwZw==/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xNzkvMjE0LzEwMTQ3NTA3LmpwZw==/image.jpg"
+          },
+          {
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xODAvMjE0LzEwMTQ3NTA4LmpwZw==/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xODAvMjE0LzEwMTQ3NTA4LmpwZw==/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xODAvMjE0LzEwMTQ3NTA4LmpwZw==/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xODAvMjE0LzEwMTQ3NTA4LmpwZw==/image.jpg"
+          },
+          {
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xODEvMjE0LzEwMTQ3NTA5LmpwZw==/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xODEvMjE0LzEwMTQ3NTA5LmpwZw==/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xODEvMjE0LzEwMTQ3NTA5LmpwZw==/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xODEvMjE0LzEwMTQ3NTA5LmpwZw==/image.jpg"
+          },
+          {
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xODIvMjE0LzEwMTQ3NTEwLmpwZw==/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xODIvMjE0LzEwMTQ3NTEwLmpwZw==/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xODIvMjE0LzEwMTQ3NTEwLmpwZw==/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8xODIvMjE0LzEwMTQ3NTEwLmpwZw==/image.jpg"
+          }
+       ],
+       "description":"Après avoir visité les tribunes, les vestiaires et le tunnel, vous revivrez du haut du podium, la magie de la remise des trophées avec une vue imprenable sur le terrain de jeux pouvant aussi se transformer en salle de concert géante. Le musée, en accès libre, est inclus dans le billet.\r\n\r\n>>> En raison de l’activité évènementielle du Stade de France®, le parcours peut être modifié. Pour des raisons de sécurité, une fouille des sacs est obligatoirement effectuée à l'entrée. Les bagages et objets volumineux ne sont pas autorisés.\r\n\r\n>>> Contremarque en vente à l'Office de Tourisme, valable un an à partir de la date d'achat (réservation à effectuer ensuite en ligne sur le site de Cultival).",
+       "slogan":"Entrez dans le mythique Stade de France® ! \r\nEn raison de travaux importants au Stade de France, les visites reprendront courant novembre 2021.",
+       "desc":"Entrez dans le mythique Stade de France® ! \r\nEn raison de travaux importants au Stade de France, les visites reprendront courant novembre 2021.",
+       "dates":[
+          {
+             "oneday":false,
+             "over":"Terminé",
+             "start":{
+                "startDate":"2021-11-03T00:00:00+01:00",
+                "label":"Du",
+                "day":"3",
+                "month":"Novembre",
+                "shortMonth":"Nov."
+             },
+             "end":{
+                "endDate":"2021-12-31T23:59:59+01:00",
+                "label":"au",
+                "weekday":"Vendredi",
+                "day":"31",
+                "month":"Décembre",
+                "shortMonth":"Déc."
+             }
+          }
+       ],
+       "booking":{
+          "link":"https://www.cultival.fr/visites/les-coulisses-du-stade-de-france-",
+          "central":false,
+          "text":"Réserver"
+       },
+       "ratings":"None",
+       "extralabels":"None",
+       "itineraryLength":[
+          
+       ],
+       "locomotions":[
+          
+       ],
+       "fairguestReview":"None",
+       "userId":"None",
+       "tagCorner":"None",
+       "tariffs":{
+          "from":"2021-11-03T00:00:00+01:00",
+          "to":"2021-12-31T23:59:59+01:00",
+          "price":"14",
+          "hasSinglePrice":false,
+          "type":"Tarif plein",
+          "free":"Gratuit",
+          "label":"À partir de",
+          "subinfos":{
+             "label":"Meilleur prix garanti",
+             "tooltip":"Meilleur prix garanti sans commission par Plaine Commune"
+          },
+          "currency":"€",
+          "position":{
+             "left":true
+          }
+       },
+       "deals":"None",
+       "services":"None",
+       "specials":"None",
+       "chains":"None",
+       "territoryLabelBrands":"None",
+       "wishlistBtn":"None",
+       "itemClasses":"",
+       "itemData":[
+          {
+             "sheet-id":"1483044"
+          }
+       ]
+    },
+    {
+       "contract":"None",
+       "script":"None",
+       "bordereau":"FMA",
+       "sheetId":"1092754",
+       "covidCharterStatus":"None",
+       "covidServices":"None",
+       "title":"Histoires Communes",
+       "type":"CULTURELLE",
+       "link":"https://www.tourisme-plainecommune-paris.com/que-faire/ou-sortir/agenda/histoires-communes-1092754",
+       "targetBlank":true,
+       "address":"Dans les médiathèques de Plaine Commune\n93200",
+       "town":"Saint-Denis",
+       "website":"None",
+       "phone":"None",
+       "gps":{
+          "type":"08.02.02.03",
+          "longitude":"2.356328",
+          "latitude":"48.931552"
+       },
+       "zones":"None",
+       "distance":"None",
+       "img":{
+          "url":{
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMzAvNjMvMTEyODg1NTAuanBn/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMzAvNjMvMTEyODg1NTAuanBn/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMzAvNjMvMTEyODg1NTAuanBn/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMzAvNjMvMTEyODg1NTAuanBn/image.jpg"
+          },
+          "title":"Histoires Communes",
+          "alt":"Histoires Communes"
+       },
+       "allImgs":[
+          {
+             "landscape":"https://api.cloudly.space/resize/cropratioresize/460/345/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMzAvNjMvMTEyODg1NTAuanBn/image.jpg",
+             "portrait":"https://api.cloudly.space/resize/cropratioresize/460/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMzAvNjMvMTEyODg1NTAuanBn/image.jpg",
+             "square":"https://api.cloudly.space/resize/cropratioresize/690/690/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMzAvNjMvMTEyODg1NTAuanBn/image.jpg",
+             "manual":"https://api.cloudly.space/resize/cropratioresize/%width%/%height%/60/aHR0cDovL3N0YXRpYy5hcGlkYWUtdG91cmlzbWUuY29tL2ZpbGVzdG9yZS9vYmpldHMtdG91cmlzdGlxdWVzL2ltYWdlcy8yMzAvNjMvMTEyODg1NTAuanBn/image.jpg"
+          }
+       ],
+       "description":"Pour sa 30e édition, le festival de contes, Histoires Communes, fait son retour avec plus de 40 artistes du conte et plus de 100 spectacles ouverts à toutes et tous ! Et il y en a pour tous les âges et pour tous les goûts.",
+       "slogan":"Festival de contes pour petits et grands !",
+       "desc":"Festival de contes pour petits et grands !",
+       "dates":[
+          {
+             "oneday":false,
+             "over":"Terminé",
+             "start":{
+                "startDate":"2021-10-22T00:00:00+02:00",
+                "label":"Du",
+                "day":"22",
+                "month":"Octobre",
+                "shortMonth":"Oct."
+             },
+             "end":{
+                "endDate":"2022-08-24T23:59:59+02:00",
+                "label":"au",
+                "weekday":"Mercredi",
+                "day":"24",
+                "month":"Août",
+                "shortMonth":"Août"
+             }
+          }
+       ],
+       "ratings":"None",
+       "extralabels":"None",
+       "itineraryLength":[
+          
+       ],
+       "locomotions":[
+          
+       ],
+       "fairguestReview":"None",
+       "userId":"None",
+       "tagCorner":"None",
+       "tariffs":{
+          "from":"2021-10-26T00:00:00+02:00",
+          "to":"2022-08-24T23:59:59+02:00",
+          "price":"0",
+          "hasSinglePrice":true,
+          "type":"Tarif plein",
+          "free":"Gratuit",
+          "currency":"€",
+          "position":{
+             "left":true
+          }
+       },
+       "deals":"None",
+       "services":"None",
+       "specials":"None",
+       "chains":"None",
+       "territoryLabelBrands":"None",
+       "wishlistBtn":"None",
+       "itemClasses":"",
+       "itemData":[
+          {
+             "sheet-id":"1092754"
+          }
+       ]
+    }
+ ]
